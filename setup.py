@@ -48,7 +48,7 @@ setup(name='iocage',
       install_requires=[
           'click==6.7',
           'texttable==0.9.0',
-          'requests==2.17.3',
+          'requests==2.31.0',
           'tqdm==4.14.0',
           'coloredlogs==7.0',
           'verboselogs==1.6',
